@@ -1,0 +1,1 @@
+Информация о скиллах: техники тест-дизайна, работа с БД, Terminal, Postman, Android Studio
