@@ -1,1 +1,14 @@
-
+ID	2234K
+Title: Ошибка поиска на странице [Мои списки]
+Enviroment:	macOS, Google Chrome Version 112.0.5615.49
+Build:	1.1
+Severity:	Minor
+Priority:	Low
+Steps: 
+1. Открыть страницу toramp.com
+2. Нажать на ссылку [Мои списки]
+3. В поле поиск ввести "The wire"
+4. Нажать ввод на клавиатуре
+Expected result: На странице "результаты поиска" отображаются сериалы, содержащие ключевые слова в названии
+Actual result: Страница не найдена (404 ошибка)
+Attachments
